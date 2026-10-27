@@ -1,1 +1,13 @@
-
+[general]
+name=GeoSegment AI
+qgisMinimumVersion=3.22
+description=AI segmentation of rasters and basemaps — describe or show what to find, get clean polygons.
+about=Draw a zone, type what you are looking for (or draw a few examples) and GeoSegment AI returns polygons as a vector layer. Includes confidence and size filters, AI-assisted corrections and shape tools.
+version=0.2.0
+author=Dimitrije
+email=you@example.com
+repository=https://example.com
+tracker=https://example.com
+icon=icon.svg
+tags=segmentation,ai,sam,remote sensing,buildings,vectorization
+experimental=True
